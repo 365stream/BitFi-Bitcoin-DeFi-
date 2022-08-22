@@ -7,7 +7,7 @@ Artificial Intelligence (AI) and Machine Learning (ML) have already been used in
 
 Contract Address : 0x9FD7C60e9F56E772791a32957D803271DB11e7a4
 
-BSCSCAN : https://bscscan.com/token/0x9fd7c60e9f56e772791a32957d803271db11e7a4?fbclid=IwAR0pAcNzqfedcRSugqruQrJGBGID4MjV12D-X4fF5xb_PWnSmpvMdoj7ixs
+BSCSCAN :(https://bscscan.com/address/0x9fd7c60e9f56e772791a32957d803271db11e7a4)
 
 Official Site : https://bitfi.365.stream/
 

@@ -3,7 +3,8 @@ Governanace Token generated for AI trading platform
 
 Artificial Intelligence (AI) and Machine Learning (ML) have already been used in financial trading in areas such as Crypto price prediction, simulation of the Crypto market, investment strategy development, portfolio management and diversification, technical analysis of financial charts data, and more. AI in Crypto trading and show how the integration of this technology can lead to a qualitatively new model of Cryptotrading close to Artificial  Intelligence (AI). 
 
-![BitFi Logo](https://user-images.githubusercontent.com/109957215/185853767-a90b285a-531d-4c07-9d1b-f51d6b8a6e04.png)
+![BitFi-Logo300x300](https://user-images.githubusercontent.com/109957215/185871754-92b565f6-0593-4514-acf1-bc46e3b71f22.png)
+
 
 Contract Address : 0x9FD7C60e9F56E772791a32957D803271DB11e7a4
 

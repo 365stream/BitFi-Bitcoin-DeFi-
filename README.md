@@ -1,1 +1,1 @@
-# BitFi
+# BitFi [Bitcoin DeFi]
